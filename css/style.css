@@ -1262,6 +1262,13 @@ a:hover {
   color: #fff;
   top: 20px;
 }
+.portfolio-item .wrap-icon2,
+.blog-item .wrap-icon2 {
+  position: absolute;
+  right: 40px;
+  color: #fff;
+  top: 20px;
+}
 .portfolio-item .portfolio-item-content,
 .blog-item .portfolio-item-content {
   position: absolute;

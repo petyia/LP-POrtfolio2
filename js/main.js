@@ -542,8 +542,9 @@ var jarallaxPlugin = function () {
   jarallax(document.querySelectorAll(".jarallax-video"), {
     speed: 0.2,
     videoSrc: "https://www.youtube.com/watch?v=mwtbEGNABWU",
-    videoStartTime: 8,
+    videoStartTime: 64,
     videoEndTime: 70,
+    videoQuality: "hd1080",
   });
 };
 
